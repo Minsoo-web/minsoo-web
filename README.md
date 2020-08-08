@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## I`m FE developer
+
 <!--
 **Minsoo-web/Minsoo-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
