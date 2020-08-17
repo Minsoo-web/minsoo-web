@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-## I`m FE developer
+🔭 I’m currently working on Mobigen
+
+🌱 I’m currently learning CI/CD
+
+📫 How to reach me: zlemzlem5656@naver.com
+
 
 <!--
 **Minsoo-web/Minsoo-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
