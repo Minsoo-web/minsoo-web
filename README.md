@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Mobigen
 
-🌱 I’m currently learning CI/CD
+🌱 I’m currently learning devOps, FE, BE
 
 📫 How to reach me: zlemzlem5656@naver.com
 
