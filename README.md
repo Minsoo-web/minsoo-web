@@ -4,6 +4,24 @@
 
 🌱 I’m currently learning devOps, FE, BE
 
+🚴‍♂️ My skill overview
+
+- devOps (on learning 📚)
+  - docker
+  - jenkins
+  - kube
+
+- web-fe (on learning 📚)
+  - html5
+  - css3
+  - scss
+  - js (es6)
+  - vue
+
+- web-be (on learning 📚)
+  - spring
+
+
 📫 How to reach me: zlemzlem5656@naver.com
 
 
