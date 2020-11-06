@@ -19,7 +19,8 @@
   - vue
 
 - web-be (on learning 📚)
-  - spring
+  - NodeJS
+  - NestJS
 
 
 📫 How to reach me: zlemzlem5656@naver.com
