@@ -4,6 +4,12 @@
 
 🌱 I’m currently learning devOps, FE, BE
 
+![Minsoo's github stats](https://github-readme-stats.vercel.app/api?username=minsoo-web&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoo-web&layout=compact&theme=dracula)
+<!-- 
+![Minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsoo_web)
+-->
+
 🚴‍♂️ My skill overview
 
 - devOps (on learning 📚)
