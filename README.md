@@ -24,7 +24,6 @@
 
 🧑‍💻 BE
 
-<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
@@ -33,6 +32,7 @@
 🧑‍💻 devOps
 
 <code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
+<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
