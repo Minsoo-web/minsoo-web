@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoo-web&layout=compact&theme=vue-dark)
 [![repo card](https://github-readme-stats.vercel.app/api/pin/?username=minsoo-web&repo=es_features&theme=vue-dark)](https://github.com/minsoo-web/es_features)
 
-![Minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsoo_web&theme=vue-dark)
+<!-- ![Minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsoo_web&theme=vue-dark)-->
 
 
 🚴‍♂️ My skill overview
