@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminsoo-web%2Fhit-counter&count_bg=%230F4C81&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 🔭 I’m currently working on Mobigen
 
-🌱 I’m currently learning devOps, FE, BE
+🌱 I’m currently learning devOps, FE
 
 ![Minsoo's github stats](https://github-readme-stats.vercel.app/api?username=minsoo-web&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoo-web&layout=compact&theme=vue-dark)
@@ -17,26 +17,28 @@
 
 👨‍💻 FE
 
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+<code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 
+<!--
 🧑‍💻 BE
 
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+-->
 
 
 🧑‍💻 devOps
 
-<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
-<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></code>
+<code><img width="30" height="30" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
+<code><img width="30" height="30" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
+<code><img width="30" height="30" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></code>
 
 📫 How to reach me: zlemzlem5656@naver.com
 
