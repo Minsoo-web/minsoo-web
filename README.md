@@ -21,6 +21,7 @@
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
 
 <!--
 🧑‍💻 BE
