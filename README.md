@@ -7,7 +7,7 @@
 🌱 I’m currently learning devOps, FE
 
 ![Minsoo's github stats](https://github-readme-stats.vercel.app/api?username=minsoo-web&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoo-web&layout=compact&theme=vue-dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoo-web&layout=compact&theme=vue-dark) -->
 
 <!-- ![Minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsoo_web&theme=vue-dark)-->
 
