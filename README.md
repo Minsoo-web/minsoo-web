@@ -33,8 +33,8 @@
 
 🧑‍💻 devOps
 
-<code><img width="30" height="30" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
-<code><img width="30" height="30" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
