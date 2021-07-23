@@ -19,6 +19,8 @@
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 <!-- <code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
 
 <!--
