@@ -10,6 +10,7 @@
 
 <!-- ![Minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsoo_web&theme=vue-dark)-->
 
+<a href="https://opgc.me/#/users/minsoo-web" target="_blank"><img src="https://api.opgc.me/githubs/users/minsoo-web/tag/?theme=basic" /></a>
 
 🚴‍♂️ My skill overview
 
